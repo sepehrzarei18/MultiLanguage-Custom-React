@@ -1,0 +1,41 @@
+{
+    "Language" : {
+        "en-us" : {
+            "Home" : {
+                "PageTitle" : "Home",
+                "RegisterLinkBtn" : "Register"
+            },
+            "Login" : {
+                "PageTitle" : "Login"
+            },
+            "Register" : {
+                "PageTitle" : "Register"
+            }
+        },
+        "fa-ir" : {
+            "Home" : {
+                "PageTitle" : "صفحه اصلی",
+                "RegisterLinkBtn" : "ثبت نام"
+            },
+            "Login" : {
+                "PageTitle" : "ورود به سایت"
+            },
+            "Register" : {
+                "PageTitle" : "ثبت نام در سایت"
+            }
+        },
+        "ar-ue" : {
+            "Home" : {
+                "PageTitle" : "الصفحة الرئيسية",
+                "RegisterLinkBtn" : "يسجل"
+            },
+            "Login" : {
+                "PageTitle" : "تسجيل الدخول"
+            },
+            "Register" : {
+                "PageTitle" : "يسجل"
+            }
+        }
+
+    }
+}
